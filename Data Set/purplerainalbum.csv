@@ -1,0 +1,10 @@
+Song name,Album Name,Position on Album,In Hot 100 Billboard ,Position,Year ,Song length in seconds,BPM value,Key,Sentiment,Category,Word Count
+I would die 4 u,Purple Rain,7,1,8,1984,176,135.5,A m,34,Positive,220
+Baby I'm a star,Purple Rain,8,0,0,1984,263,137.9,A m,36,Positive,355
+Darling Nikki,Purple Rain,5,0,0,1984,253,78.1,B m,-52,Very Negative,216
+Lets go crazy,Purple Rain,1,1,1,1984,279,98.1,C#m,66,Very Positive,347
+Computer Blue,Purple Rain,4,0,0,1984,239,132.7,D #m,36,Positive,71
+The beautiful ones,Purple Rain,3,0,0,1984,314,72.7,F m,-26,Negative,233
+When Doves Cry,Purple Rain,6,1,1,1984,351,126.5,G #m,-34,Negative,327
+Purple Rain,Purple Rain,9,1,2,1984,521,112.3,G m,0,Neutral,208
+Take me with U,Purple Rain,2,1,25,1985,222,122,A m,-52,Very Negative,221
