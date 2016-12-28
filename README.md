@@ -16,9 +16,9 @@ Analyzed a dataset that I created, comprising of different attributes of Prince'
 
 >  Major findings :
 
--There are relationships in album structure or song structure, but nothing that can predict if his song would be a hit.
--There is some structure to his albums as regards song length with a preference to increase song length as the album progresses.
--Tracks 4 and 9 are his preferred neutral sentiment track.  Track 9 on Purple Rain, “Purple Rain” is a perfectly neutral sentiment song.
--Not a lot of descriptive steps necessary to classify his songs as a hit categorization.
+>There are relationships in album structure or song structure, but nothing that can predict if his song would be a hit.
+>There is some structure to his albums as regards song length with a preference to increase song length as the album progresses.
+>Tracks 4 and 9 are his preferred neutral sentiment track.  Track 9 on Purple Rain, “Purple Rain” is a perfectly neutral sentiment song.
+>Not a lot of descriptive steps necessary to classify his songs as a hit categorization.
 
 If you're interested in reading the longer version : https://github.com/saurabh-rao/Computer-Blue---Analyzing-Prince-s-music-through-the-eighties-/tree/master/Report 
