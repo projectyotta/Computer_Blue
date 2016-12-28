@@ -1,7 +1,9 @@
 # Computer-Blue---Analyzing-Prince-s-music-through-the-eighties-
 Analyzed a dataset that I created, comprising of different attributes of Prince's music through the eighties - song length , BPM , Key etc. 
 
-> This project was in collaboration with Jamie Wheeler - http://www.wheelerdatalab.com/ . 
+This project was in collaboration with Jamie Wheeler - http://www.wheelerdatalab.com/ . 
+
+                                                        Process 
 
 > Wanted to understand if there was a pattern to the music that an artist composed through which we could predict if the 
   song that was being written was going to be a hit or not. The min reason we chose Prince was because his songs are very diverse. 
@@ -14,11 +16,16 @@ Analyzed a dataset that I created, comprising of different attributes of Prince'
  
 >  Also plotted a decision tree to understand if there was a way we could classify the kind of music he made. 
 
->  Major findings :
+                                                      Major findings 
 
 >There are relationships in album structure or song structure, but nothing that can predict if his song would be a hit.
+
 >There is some structure to his albums as regards song length with a preference to increase song length as the album progresses.
+
 >Tracks 4 and 9 are his preferred neutral sentiment track.  Track 9 on Purple Rain, “Purple Rain” is a perfectly neutral sentiment song.
+
 >Not a lot of descriptive steps necessary to classify his songs as a hit categorization.
+
+
 
 If you're interested in reading the longer version : https://github.com/saurabh-rao/Computer-Blue---Analyzing-Prince-s-music-through-the-eighties-/tree/master/Report 
